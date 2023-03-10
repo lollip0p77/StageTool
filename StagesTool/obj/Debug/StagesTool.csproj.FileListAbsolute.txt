@@ -1,0 +1,17 @@
+D:\Programation\Repos\StagesTool\StagesTool\bin\Debug\StagesTool.exe.config
+D:\Programation\Repos\StagesTool\StagesTool\bin\Debug\StagesTool.exe
+D:\Programation\Repos\StagesTool\StagesTool\bin\Debug\StagesTool.pdb
+D:\Programation\Repos\StagesTool\StagesTool\bin\Debug\Guna.UI2.dll
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.csproj.AssemblyReference.cache
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.csproj.SuggestedBindingRedirects.cache
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.Form1.resources
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.Properties.Resources.resources
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.csproj.GenerateResource.cache
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.csproj.CoreCompileInputs.cache
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.csproj.CopyComplete
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.exe
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.pdb
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.Forms.FrmDemande.resources
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.Forms.FrmEntreprise.resources
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.Forms.FrmEntrevue.resources
+D:\Programation\Repos\StagesTool\StagesTool\obj\Debug\StagesTool.Forms.FrmRetour.resources
